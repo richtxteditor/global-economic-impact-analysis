@@ -2,6 +2,8 @@
 
 This document provides an overview of the interactive data visualizations from the "Global Economic Impact Analysis" project. Each chart is designed to be explored, allowing for a deeper understanding of the complex relationships between global events and economic trends.
 
+**For full interactivity with all charts, please clone this repository and run the `Global Economic Impact Analysis.ipynb` notebook in a local Jupyter Notebook or JupyterLab environment (e.g., via Anaconda).**
+
 ## Table of Contents
 
 1. [World GDP Over Time (1960-2022)](#1-world-gdp-over-time-1960-2022)
@@ -23,6 +25,8 @@ This document provides an overview of the interactive data visualizations from t
 
 ### 1. World GDP Over Time (1960-2022)
 
+![World GDP Over Time](img/world-GDP-over-time.png)
+
 This line chart provides a foundational view of global economic growth over the past six decades, illustrating a strong, accelerating upward trend.
 
 - **Interactivity:**
@@ -31,6 +35,8 @@ This line chart provides a foundational view of global economic growth over the 
 ---
 
 ### 2. Seasonal Decomposition of World GDP
+
+![Seasonal Decomposition of World GDP](img/seasonal-decomp.png)
 
 This set of four static plots breaks down the World GDP time-series into its fundamental components: the observed data, the long-term trend, the seasonal patterns (which are flat for annual data), and the random residuals.
 
@@ -48,6 +54,8 @@ This chart displays the historical World GDP data alongside a 10-year forecast g
 
 ### 4. GDP Trajectories of Major Economies & Top Arms Traders
 
+![GDP Trajectories of Major Economies & Top Arms Traders](img/GDP-trajectories-and-top-arms-traders.png)
+
 This multi-line chart compares the economic growth of the world's major economies and top arms-trading nations, plotted on a logarithmic scale to effectively compare countries with vastly different GDPs.
 
 - **Interactivity:**
@@ -58,6 +66,8 @@ This multi-line chart compares the economic growth of the world's major economie
 ---
 
 ### 5. Animated World Map of GDP (1960-2022)
+
+![Animated World Map of GDP](img/World-GDP-by-Country-over-time.png)
 
 This animated choropleth map provides a powerful geographic visualization of how global wealth has shifted and grown over the last 60+ years.
 
@@ -70,6 +80,8 @@ This animated choropleth map provides a powerful geographic visualization of how
 
 ### 6. Monthly Net Aircraft Orders: Airbus vs. Boeing
 
+![Monthly Net Aircraft Orders](img/Monthly-Net-Aircraft-orders.png)
+
 This grouped bar chart provides a case study on the commercial aerospace industry by visualizing the monthly net orders for its two largest manufacturers.
 
 - **Interactivity:**
@@ -79,6 +91,8 @@ This grouped bar chart provides a case study on the commercial aerospace industr
 ---
 
 ### 7. Evolution of U.S. Defense Budget Composition (1999-2023)
+
+![Evolution of U.S. Defense Budget Composition](img/Evolution-of-U.S.-Defense-Budget-Composition.png)
 
 This stacked area chart shows how the allocation of the U.S. Department of Defense budget has shifted between major categories like Operations, Procurement, and R&D over the past two decades.
 
@@ -90,6 +104,8 @@ This stacked area chart shows how the allocation of the U.S. Department of Defen
 
 ### 8. Changing Composition of Global Arms Imports (1950-2022)
 
+![Changing Composition of Global Arms Imports](img/Changing-Composition-of-Global-Arms-Imports.png)
+
 This 100% stacked area chart visualizes the evolving technological priorities in the global arms trade by showing the proportional share of different weapon categories over time.
 
 - **Interactivity:**
@@ -99,6 +115,8 @@ This 100% stacked area chart visualizes the evolving technological priorities in
 ---
 
 ### 9. Cybersecurity Fund Flows vs. NASDAQ Trend
+
+![Cybersecurity Fund Flows vs. NASDAQ Trend](img/Cybersecurity-Fund-Flows-vs-NASDAQ-Trend.png)
 
 This combination chart visualizes investor sentiment in the cybersecurity sector by plotting monthly net flows into major cybersecurity ETFs alongside the general market trend of the NASDAQ-100.
 
@@ -110,6 +128,8 @@ This combination chart visualizes investor sentiment in the cybersecurity sector
 
 ### 10. Airline Bankruptcy Risk During COVID-19
 
+![Airline Bankruptcy Risk During COVID-19](img/Airline-Bankruptcy-Risk-Surged-During-COVID-19-Lockdowns.png)
+
 This line chart quantifies the perceived market risk for the airline industry by plotting the Credit Default Swap (CDS) spreads for North American and European airline indices.
 
 - **Interactivity:**
@@ -119,6 +139,8 @@ This line chart quantifies the perceived market risk for the airline industry by
 ---
 
 ### 11. US Homebuilder Confidence: The COVID-19 V-Shaped Recovery
+
+![US Homebuilder Confidence: The COVID-19 V-Shaped Recovery](img/US-Homebuilder-Confidence-The-COVID-19-V-Shaped-Recovery.png)
 
 This chart tracks the NAHB Market Index, a key indicator of the U.S. housing sector's health, showcasing its dramatic collapse and subsequent record-breaking boom during the pandemic.
 
@@ -140,6 +162,8 @@ This animated choropleth map visualizes the geographic centers of the global arm
 
 ### 13. Composition of Global Arms Exports by Category (1950-2022)
 
+![Composition of Global Arms Exports by Category](img/Composition-of-Global-Arms-Exports-by-Category.png)
+
 This donut chart provides a high-level summary of the entire global arms export market from 1950 to 2022, broken down by major weapon category.
 
 - **Interactivity:**
@@ -149,6 +173,8 @@ This donut chart provides a high-level summary of the entire global arms export 
 ---
 
 ### 14. Animated Bubble Chart: GDP vs. Arms Imports
+
+![Animated Bubble Chart: GDP vs. Arms Imports](img/GDP-vs-Arms-Imports-for-Top-15-Importing-Nations.png)
 
 This animated scatter plot explores the "Guns vs. Butter" dynamic by comparing a nation's economic output (GDP) with its spending on arms imports.
 
