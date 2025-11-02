@@ -1,0 +1,70 @@
+all_arms_imports
+all_arms_exports
+top_200_arms_imports
+top_200_arms_exports
+bloom_consg_USCAN
+bloom_cybersec_equity_flows
+bloom_def_budget
+bloom_def_industry
+gdp
+
+
+Gaza currently 
+the worst situation for palestinians. West bank is an apartheid state acknowledged by other orgs equally devastating as Gaza currently. In Israel, palestinian citizens are faced with Jim Crowe style of discrimination upheld by law because of an apartheid state based on jewish supremacy (??) written into law in Israel since 2011
+
+Those uninitiated but aware of anti-semitism must think this is outrageous, and it sounds that way
+
+since 2011 especially 
+
+according to betselem, human rights watch, amnesty international and other liberal NGO and human rights groups openly stating that Israel is an apartheid state, things have shifted considerably
+
+
+
+1. Descriptive Statistics:
+   - `describe()`: Provides a summary of statistics pertaining to DataFrame columns.
+   - `mean()`: Returns the mean of the values.
+   - `median()`: Returns the median of the values.
+   - `mode()`: Returns the mode of the values.
+   - `sum()`: Returns the sum of the values.
+   - `min()`: Returns the minimum value.
+   - `max()`: Returns the maximum value.
+   - `std()`: Returns the standard deviation.
+   - `var()`: Returns the variance.
+   - `sem()`: Returns the standard error of the mean.
+   - `quantile()`: Returns values at the given quantile.
+   - `cumsum()`: Returns the cumulative sum.
+   - `cumprod()`: Returns the cumulative product.
+   - `cummax()`: Returns the cumulative maximum.
+   - `cummin()`: Returns the cumulative minimum.
+
+2. Correlation and Covariance:
+   - `corr()`: Computes pairwise correlation of columns, excluding NA/null values.
+   - `cov()`: Computes pairwise covariance of columns, excluding NA/null values.
+   - `corrwith()`: Computes pairwise correlation between rows or columns of two DataFrame objects.
+
+3. Counting Values:
+   - `count()`: Counts the number of non-NA/null values.
+   - `value_counts()`: Returns a Series containing counts of unique values.
+
+4. Aggregation:
+   - `agg()`, `aggregate()`: Aggregate using one or more operations over the specified axis.
+
+5. Ranking:
+   - `rank()`: Assigns ranks to entries.
+
+6. Window Functions:
+   - `rolling()`: Provides rolling window calculations.
+   - `expanding()`: Provides expanding window calculations.
+   - `ewm()`: Provides exponential weighted functions.
+
+7. Other Functions:
+   - `abs()`: Absolute numeric value.
+   - `clip()`: Trim values at input threshold(s).
+   - `nunique()`: Count distinct observations.
+   - `idxmax()`: Index of first occurrence of maximum of values.
+   - `idxmin()`: Index of first occurrence of minimum of values.
+
+8. Pivot Tables:
+   - `pivot_table()`: Create a spreadsheet-style pivot table as a DataFrame.
+
+Each of these functions can be applied to a pandas DataFrame or Series (a single column of a DataFrame) and are invaluable for data analysis, allowing for a comprehensive understanding of the data's characteristics. Remember, the applicability and usefulness of each function depend on the nature of your data and the specific requirements of your analysis.

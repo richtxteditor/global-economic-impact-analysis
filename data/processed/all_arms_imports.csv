@@ -1,0 +1,889 @@
+,Arms Category,Year,Value
+0,Aircraft,1950,5301.0
+1,Air defence systems,1950,0.0
+2,Armoured vehicles,1950,1024.0
+3,Artillery,1950,337.0
+4,Engines,1950,481.0
+5,Missiles,1950,0.0
+6,Naval weapons,1950,1.0
+7,Other,1950,0.0
+8,Satellites,1950,0.0
+9,Sensors,1950,25.0
+10,Ships,1950,914.0
+11,Total,1950,8083.0
+12,Aircraft,1951,6723.0
+13,Air defence systems,1951,0.0
+14,Armoured vehicles,1951,993.0
+15,Artillery,1951,556.0
+16,Engines,1951,773.0
+17,Missiles,1951,0.0
+18,Naval weapons,1951,12.0
+19,Other,1951,0.0
+20,Satellites,1951,0.0
+21,Sensors,1951,4.0
+22,Ships,1951,2460.0
+23,Total,1951,11520.0
+24,Aircraft,1952,11666.0
+25,Air defence systems,1952,42.0
+26,Armoured vehicles,1952,2419.0
+27,Artillery,1952,674.0
+28,Engines,1952,818.0
+29,Missiles,1952,0.0
+30,Naval weapons,1952,0.0
+31,Other,1952,0.0
+32,Satellites,1952,0.0
+33,Sensors,1952,74.0
+34,Ships,1952,859.0
+35,Total,1952,16552.0
+36,Aircraft,1953,15567.0
+37,Air defence systems,1953,42.0
+38,Armoured vehicles,1953,3980.0
+39,Artillery,1953,740.0
+40,Engines,1953,1155.0
+41,Missiles,1953,0.0
+42,Naval weapons,1953,133.0
+43,Other,1953,0.0
+44,Satellites,1953,0.0
+45,Sensors,1953,261.0
+46,Ships,1953,1647.0
+47,Total,1953,23525.0
+48,Aircraft,1954,12853.0
+49,Air defence systems,1954,56.0
+50,Armoured vehicles,1954,2881.0
+51,Artillery,1954,572.0
+52,Engines,1954,1024.0
+53,Missiles,1954,0.0
+54,Naval weapons,1954,40.0
+55,Other,1954,0.0
+56,Satellites,1954,0.0
+57,Sensors,1954,420.0
+58,Ships,1954,2197.0
+59,Total,1954,20043.0
+60,Aircraft,1955,12598.0
+61,Air defence systems,1955,197.0
+62,Armoured vehicles,1955,2349.0
+63,Artillery,1955,810.0
+64,Engines,1955,1085.0
+65,Missiles,1955,57.0
+66,Naval weapons,1955,129.0
+67,Other,1955,0.0
+68,Satellites,1955,0.0
+69,Sensors,1955,439.0
+70,Ships,1955,2821.0
+71,Total,1955,20485.0
+72,Aircraft,1956,14073.0
+73,Air defence systems,1956,358.0
+74,Armoured vehicles,1956,4053.0
+75,Artillery,1956,946.0
+76,Engines,1956,1460.0
+77,Missiles,1956,55.0
+78,Naval weapons,1956,148.0
+79,Other,1956,0.0
+80,Satellites,1956,0.0
+81,Sensors,1956,428.0
+82,Ships,1956,3033.0
+83,Total,1956,24554.0
+84,Aircraft,1957,13705.0
+85,Air defence systems,1957,480.0
+86,Armoured vehicles,1957,3890.0
+87,Artillery,1957,740.0
+88,Engines,1957,1337.0
+89,Missiles,1957,49.0
+90,Naval weapons,1957,181.0
+91,Other,1957,0.0
+92,Satellites,1957,0.0
+93,Sensors,1957,376.0
+94,Ships,1957,3325.0
+95,Total,1957,24083.0
+96,Aircraft,1958,15960.0
+97,Air defence systems,1958,605.0
+98,Armoured vehicles,1958,3187.0
+99,Artillery,1958,700.0
+100,Engines,1958,1168.0
+101,Missiles,1958,704.0
+102,Naval weapons,1958,103.0
+103,Other,1958,0.0
+104,Satellites,1958,0.0
+105,Sensors,1958,372.0
+106,Ships,1958,2706.0
+107,Total,1958,25505.0
+108,Aircraft,1959,10357.0
+109,Air defence systems,1959,1300.0
+110,Armoured vehicles,1959,3211.0
+111,Artillery,1959,659.0
+112,Engines,1959,918.0
+113,Missiles,1959,1105.0
+114,Naval weapons,1959,140.0
+115,Other,1959,0.0
+116,Satellites,1959,0.0
+117,Sensors,1959,267.0
+118,Ships,1959,3415.0
+119,Total,1959,21373.0
+120,Aircraft,1960,7451.0
+121,Air defence systems,1960,1523.0
+122,Armoured vehicles,1960,3339.0
+123,Artillery,1960,577.0
+124,Engines,1960,457.0
+125,Missiles,1960,768.0
+126,Naval weapons,1960,169.0
+127,Other,1960,0.0
+128,Satellites,1960,0.0
+129,Sensors,1960,441.0
+130,Ships,1960,3009.0
+131,Total,1960,17734.0
+132,Aircraft,1961,7487.0
+133,Air defence systems,1961,1229.0
+134,Armoured vehicles,1961,3027.0
+135,Artillery,1961,706.0
+136,Engines,1961,303.0
+137,Missiles,1961,870.0
+138,Naval weapons,1961,114.0
+139,Other,1961,0.0
+140,Satellites,1961,0.0
+141,Sensors,1961,554.0
+142,Ships,1961,2044.0
+143,Total,1961,16334.0
+144,Aircraft,1962,7995.0
+145,Air defence systems,1962,1335.0
+146,Armoured vehicles,1962,3180.0
+147,Artillery,1962,605.0
+148,Engines,1962,315.0
+149,Missiles,1962,1183.0
+150,Naval weapons,1962,74.0
+151,Other,1962,1.0
+152,Satellites,1962,0.0
+153,Sensors,1962,701.0
+154,Ships,1962,2148.0
+155,Total,1962,17537.0
+156,Aircraft,1963,11196.0
+157,Air defence systems,1963,1345.0
+158,Armoured vehicles,1963,3180.0
+159,Artillery,1963,566.0
+160,Engines,1963,418.0
+161,Missiles,1963,1319.0
+162,Naval weapons,1963,108.0
+163,Other,1963,1.0
+164,Satellites,1963,0.0
+165,Sensors,1963,776.0
+166,Ships,1963,1383.0
+167,Total,1963,20291.0
+168,Aircraft,1964,14630.0
+169,Air defence systems,1964,2217.0
+170,Armoured vehicles,1964,3309.0
+171,Artillery,1964,585.0
+172,Engines,1964,401.0
+173,Missiles,1964,1633.0
+174,Naval weapons,1964,302.0
+175,Other,1964,1.0
+176,Satellites,1964,0.0
+177,Sensors,1964,983.0
+178,Ships,1964,2422.0
+179,Total,1964,26483.0
+180,Aircraft,1965,12968.0
+181,Air defence systems,1965,2264.0
+182,Armoured vehicles,1965,3895.0
+183,Artillery,1965,713.0
+184,Engines,1965,322.0
+185,Missiles,1965,1633.0
+186,Naval weapons,1965,157.0
+187,Other,1965,1.0
+188,Satellites,1965,0.0
+189,Sensors,1965,954.0
+190,Ships,1965,2166.0
+191,Total,1965,25073.0
+192,Aircraft,1966,11869.0
+193,Air defence systems,1966,1868.0
+194,Armoured vehicles,1966,3459.0
+195,Artillery,1966,1210.0
+196,Engines,1966,466.0
+197,Missiles,1966,1575.0
+198,Naval weapons,1966,82.0
+199,Other,1966,1.0
+200,Satellites,1966,0.0
+201,Sensors,1966,1072.0
+202,Ships,1966,3445.0
+203,Total,1966,25047.0
+204,Aircraft,1967,12328.0
+205,Air defence systems,1967,1383.0
+206,Armoured vehicles,1967,3799.0
+207,Artillery,1967,993.0
+208,Engines,1967,451.0
+209,Missiles,1967,1400.0
+210,Naval weapons,1967,87.0
+211,Other,1967,1.0
+212,Satellites,1967,0.0
+213,Sensors,1967,1023.0
+214,Ships,1967,4051.0
+215,Total,1967,25515.0
+216,Aircraft,1968,12628.0
+217,Air defence systems,1968,1344.0
+218,Armoured vehicles,1968,4005.0
+219,Artillery,1968,1232.0
+220,Engines,1968,486.0
+221,Missiles,1968,2066.0
+222,Naval weapons,1968,112.0
+223,Other,1968,1.0
+224,Satellites,1968,0.0
+225,Sensors,1968,747.0
+226,Ships,1968,3408.0
+227,Total,1968,26028.0
+228,Aircraft,1969,14243.0
+229,Air defence systems,1969,2031.0
+230,Armoured vehicles,1969,4751.0
+231,Artillery,1969,954.0
+232,Engines,1969,443.0
+233,Missiles,1969,2051.0
+234,Naval weapons,1969,69.0
+235,Other,1969,1.0
+236,Satellites,1969,0.0
+237,Sensors,1969,839.0
+238,Ships,1969,3192.0
+239,Total,1969,28574.0
+240,Aircraft,1970,11891.0
+241,Air defence systems,1970,2032.0
+242,Armoured vehicles,1970,5255.0
+243,Artillery,1970,921.0
+244,Engines,1970,508.0
+245,Missiles,1970,1357.0
+246,Naval weapons,1970,46.0
+247,Other,1970,0.0
+248,Satellites,1970,0.0
+249,Sensors,1970,589.0
+250,Ships,1970,2791.0
+251,Total,1970,25388.0
+252,Aircraft,1971,17043.0
+253,Air defence systems,1971,2893.0
+254,Armoured vehicles,1971,5597.0
+255,Artillery,1971,1007.0
+256,Engines,1971,786.0
+257,Missiles,1971,1496.0
+258,Naval weapons,1971,22.0
+259,Other,1971,0.0
+260,Satellites,1971,0.0
+261,Sensors,1971,521.0
+262,Ships,1971,3226.0
+263,Total,1971,32591.0
+264,Aircraft,1972,17128.0
+265,Air defence systems,1972,2915.0
+266,Armoured vehicles,1972,5995.0
+267,Artillery,1972,912.0
+268,Engines,1972,1046.0
+269,Missiles,1972,2152.0
+270,Naval weapons,1972,132.0
+271,Other,1972,20.0
+272,Satellites,1972,0.0
+273,Sensors,1972,594.0
+274,Ships,1972,3379.0
+275,Total,1972,34274.0
+276,Aircraft,1973,17109.0
+277,Air defence systems,1973,3716.0
+278,Armoured vehicles,1973,6161.0
+279,Artillery,1973,967.0
+280,Engines,1973,792.0
+281,Missiles,1973,2692.0
+282,Naval weapons,1973,86.0
+283,Other,1973,6.0
+284,Satellites,1973,0.0
+285,Sensors,1973,355.0
+286,Ships,1973,4117.0
+287,Total,1973,35999.0
+288,Aircraft,1974,18474.0
+289,Air defence systems,1974,3166.0
+290,Armoured vehicles,1974,6741.0
+291,Artillery,1974,789.0
+292,Engines,1974,774.0
+293,Missiles,1974,2842.0
+294,Naval weapons,1974,96.0
+295,Other,1974,6.0
+296,Satellites,1974,0.0
+297,Sensors,1974,350.0
+298,Ships,1974,3575.0
+299,Total,1974,36812.0
+300,Aircraft,1975,19287.0
+301,Air defence systems,1975,3531.0
+302,Armoured vehicles,1975,5190.0
+303,Artillery,1975,957.0
+304,Engines,1975,820.0
+305,Missiles,1975,2923.0
+306,Naval weapons,1975,132.0
+307,Other,1975,6.0
+308,Satellites,1975,0.0
+309,Sensors,1975,708.0
+310,Ships,1975,3769.0
+311,Total,1975,37324.0
+312,Aircraft,1976,17229.0
+313,Air defence systems,1976,4497.0
+314,Armoured vehicles,1976,4360.0
+315,Artillery,1976,889.0
+316,Engines,1976,731.0
+317,Missiles,1976,2969.0
+318,Naval weapons,1976,114.0
+319,Other,1976,0.0
+320,Satellites,1976,0.0
+321,Sensors,1976,936.0
+322,Ships,1976,3746.0
+323,Total,1976,35471.0
+324,Aircraft,1977,17011.0
+325,Air defence systems,1977,6405.0
+326,Armoured vehicles,1977,6895.0
+327,Artillery,1977,754.0
+328,Engines,1977,694.0
+329,Missiles,1977,3330.0
+330,Naval weapons,1977,130.0
+331,Other,1977,0.0
+332,Satellites,1977,0.0
+333,Sensors,1977,729.0
+334,Ships,1977,4003.0
+335,Total,1977,39953.0
+336,Aircraft,1978,17977.0
+337,Air defence systems,1978,6279.0
+338,Armoured vehicles,1978,8030.0
+339,Artillery,1978,618.0
+340,Engines,1978,770.0
+341,Missiles,1978,3787.0
+342,Naval weapons,1978,189.0
+343,Other,1978,24.0
+344,Satellites,1978,0.0
+345,Sensors,1978,799.0
+346,Ships,1978,3999.0
+347,Total,1978,42469.0
+348,Aircraft,1979,17512.0
+349,Air defence systems,1979,4502.0
+350,Armoured vehicles,1979,6450.0
+351,Artillery,1979,502.0
+352,Engines,1979,694.0
+353,Missiles,1979,3317.0
+354,Naval weapons,1979,148.0
+355,Other,1979,109.0
+356,Satellites,1979,0.0
+357,Sensors,1979,995.0
+358,Ships,1979,3804.0
+359,Total,1979,38033.0
+360,Aircraft,1980,19696.0
+361,Air defence systems,1980,4125.0
+362,Armoured vehicles,1980,5235.0
+363,Artillery,1980,717.0
+364,Engines,1980,708.0
+365,Missiles,1980,3858.0
+366,Naval weapons,1980,202.0
+367,Other,1980,89.0
+368,Satellites,1980,0.0
+369,Sensors,1980,1335.0
+370,Ships,1980,5734.0
+371,Total,1980,41698.0
+372,Aircraft,1981,20982.0
+373,Air defence systems,1981,3420.0
+374,Armoured vehicles,1981,6582.0
+375,Artillery,1981,1065.0
+376,Engines,1981,799.0
+377,Missiles,1981,4335.0
+378,Naval weapons,1981,244.0
+379,Other,1981,56.0
+380,Satellites,1981,0.0
+381,Sensors,1981,1606.0
+382,Ships,1981,6311.0
+383,Total,1981,45400.0
+384,Aircraft,1982,21282.0
+385,Air defence systems,1982,3350.0
+386,Armoured vehicles,1982,7146.0
+387,Artillery,1982,1281.0
+388,Engines,1982,811.0
+389,Missiles,1982,4572.0
+390,Naval weapons,1982,265.0
+391,Other,1982,25.0
+392,Satellites,1982,0.0
+393,Sensors,1982,1528.0
+394,Ships,1982,5397.0
+395,Total,1982,45656.0
+396,Aircraft,1983,20351.0
+397,Air defence systems,1983,2834.0
+398,Armoured vehicles,1983,7049.0
+399,Artillery,1983,1554.0
+400,Engines,1983,741.0
+401,Missiles,1983,4015.0
+402,Naval weapons,1983,354.0
+403,Other,1983,69.0
+404,Satellites,1983,0.0
+405,Sensors,1983,1899.0
+406,Ships,1983,5182.0
+407,Total,1983,44049.0
+408,Aircraft,1984,18316.0
+409,Air defence systems,1984,2405.0
+410,Armoured vehicles,1984,7266.0
+411,Artillery,1984,1468.0
+412,Engines,1984,674.0
+413,Missiles,1984,3889.0
+414,Naval weapons,1984,242.0
+415,Other,1984,87.0
+416,Satellites,1984,0.0
+417,Sensors,1984,1940.0
+418,Ships,1984,5429.0
+419,Total,1984,41717.0
+420,Aircraft,1985,17583.0
+421,Air defence systems,1985,3071.0
+422,Armoured vehicles,1985,5781.0
+423,Artillery,1985,1557.0
+424,Engines,1985,620.0
+425,Missiles,1985,4371.0
+426,Naval weapons,1985,180.0
+427,Other,1985,38.0
+428,Satellites,1985,0.0
+429,Sensors,1985,1589.0
+430,Ships,1985,3394.0
+431,Total,1985,38184.0
+432,Aircraft,1986,18057.0
+433,Air defence systems,1986,2325.0
+434,Armoured vehicles,1986,5956.0
+435,Artillery,1986,1012.0
+436,Engines,1986,668.0
+437,Missiles,1986,4738.0
+438,Naval weapons,1986,224.0
+439,Other,1986,57.0
+440,Satellites,1986,0.0
+441,Sensors,1986,1315.0
+442,Ships,1986,4743.0
+443,Total,1986,39095.0
+444,Aircraft,1987,18009.0
+445,Air defence systems,1987,3206.0
+446,Armoured vehicles,1987,5507.0
+447,Artillery,1987,1137.0
+448,Engines,1987,542.0
+449,Missiles,1987,4959.0
+450,Naval weapons,1987,289.0
+451,Other,1987,32.0
+452,Satellites,1987,0.0
+453,Sensors,1987,1474.0
+454,Ships,1987,4281.0
+455,Total,1987,39435.0
+456,Aircraft,1988,15658.0
+457,Air defence systems,1988,3040.0
+458,Armoured vehicles,1988,4667.0
+459,Artillery,1988,1159.0
+460,Engines,1988,686.0
+461,Missiles,1988,4816.0
+462,Naval weapons,1988,353.0
+463,Other,1988,22.0
+464,Satellites,1988,0.0
+465,Sensors,1988,1743.0
+466,Ships,1988,4527.0
+467,Total,1988,36671.0
+468,Aircraft,1989,17370.0
+469,Air defence systems,1989,2772.0
+470,Armoured vehicles,1989,3608.0
+471,Artillery,1989,864.0
+472,Engines,1989,798.0
+473,Missiles,1989,4478.0
+474,Naval weapons,1989,420.0
+475,Other,1989,48.0
+476,Satellites,1989,0.0
+477,Sensors,1989,1619.0
+478,Ships,1989,3304.0
+479,Total,1989,35280.0
+480,Aircraft,1990,15379.0
+481,Air defence systems,1990,1550.0
+482,Armoured vehicles,1990,3423.0
+483,Artillery,1990,543.0
+484,Engines,1990,696.0
+485,Missiles,1990,4211.0
+486,Naval weapons,1990,242.0
+487,Other,1990,59.0
+488,Satellites,1990,0.0
+489,Sensors,1990,1425.0
+490,Ships,1990,2896.0
+491,Total,1990,30424.0
+492,Aircraft,1991,12877.0
+493,Air defence systems,1991,1377.0
+494,Armoured vehicles,1991,3702.0
+495,Artillery,1991,856.0
+496,Engines,1991,637.0
+497,Missiles,1991,3789.0
+498,Naval weapons,1991,334.0
+499,Other,1991,155.0
+500,Satellites,1991,0.0
+501,Sensors,1991,1482.0
+502,Ships,1991,3026.0
+503,Total,1991,28235.0
+504,Aircraft,1992,11959.0
+505,Air defence systems,1992,548.0
+506,Armoured vehicles,1992,3314.0
+507,Artillery,1992,787.0
+508,Engines,1992,558.0
+509,Missiles,1992,2219.0
+510,Naval weapons,1992,210.0
+511,Other,1992,146.0
+512,Satellites,1992,0.0
+513,Sensors,1992,1311.0
+514,Ships,1992,3023.0
+515,Total,1992,24073.0
+516,Aircraft,1993,10487.0
+517,Air defence systems,1993,895.0
+518,Armoured vehicles,1993,5311.0
+519,Artillery,1993,370.0
+520,Engines,1993,630.0
+521,Missiles,1993,3280.0
+522,Naval weapons,1993,236.0
+523,Other,1993,100.0
+524,Satellites,1993,0.0
+525,Sensors,1993,1255.0
+526,Ships,1993,3161.0
+527,Total,1993,25727.0
+528,Aircraft,1994,7392.0
+529,Air defence systems,1994,686.0
+530,Armoured vehicles,1994,3991.0
+531,Artillery,1994,632.0
+532,Engines,1994,607.0
+533,Missiles,1994,2846.0
+534,Naval weapons,1994,221.0
+535,Other,1994,130.0
+536,Satellites,1994,0.0
+537,Sensors,1994,1338.0
+538,Ships,1994,5075.0
+539,Total,1994,22916.0
+540,Aircraft,1995,9195.0
+541,Air defence systems,1995,621.0
+542,Armoured vehicles,1995,3682.0
+543,Artillery,1995,468.0
+544,Engines,1995,612.0
+545,Missiles,1995,2821.0
+546,Naval weapons,1995,193.0
+547,Other,1995,187.0
+548,Satellites,1995,0.0
+549,Sensors,1995,1281.0
+550,Ships,1995,3795.0
+551,Total,1995,22855.0
+552,Aircraft,1996,8698.0
+553,Air defence systems,1996,724.0
+554,Armoured vehicles,1996,3777.0
+555,Artillery,1996,558.0
+556,Engines,1996,645.0
+557,Missiles,1996,2914.0
+558,Naval weapons,1996,293.0
+559,Other,1996,255.0
+560,Satellites,1996,0.0
+561,Sensors,1996,1174.0
+562,Ships,1996,4666.0
+563,Total,1996,23705.0
+564,Aircraft,1997,14238.0
+565,Air defence systems,1997,754.0
+566,Armoured vehicles,1997,3556.0
+567,Artillery,1997,605.0
+568,Engines,1997,545.0
+569,Missiles,1997,2792.0
+570,Naval weapons,1997,164.0
+571,Other,1997,228.0
+572,Satellites,1997,0.0
+573,Sensors,1997,980.0
+574,Ships,1997,4953.0
+575,Total,1997,28815.0
+576,Aircraft,1998,14537.0
+577,Air defence systems,1998,773.0
+578,Armoured vehicles,1998,2736.0
+579,Artillery,1998,420.0
+580,Engines,1998,510.0
+581,Missiles,1998,3851.0
+582,Naval weapons,1998,229.0
+583,Other,1998,155.0
+584,Satellites,1998,0.0
+585,Sensors,1998,1155.0
+586,Ships,1998,3346.0
+587,Total,1998,27712.0
+588,Aircraft,1999,11280.0
+589,Air defence systems,1999,951.0
+590,Armoured vehicles,1999,2977.0
+591,Artillery,1999,345.0
+592,Engines,1999,565.0
+593,Missiles,1999,2982.0
+594,Naval weapons,1999,140.0
+595,Other,1999,315.0
+596,Satellites,1999,0.0
+597,Sensors,1999,1015.0
+598,Ships,1999,4528.0
+599,Total,1999,25097.0
+600,Aircraft,2000,8280.0
+601,Air defence systems,2000,826.0
+602,Armoured vehicles,2000,2066.0
+603,Artillery,2000,333.0
+604,Engines,2000,542.0
+605,Missiles,2000,2499.0
+606,Naval weapons,2000,159.0
+607,Other,2000,321.0
+608,Satellites,2000,0.0
+609,Sensors,2000,939.0
+610,Ships,2000,3338.0
+611,Total,2000,19303.0
+612,Aircraft,2001,9301.0
+613,Air defence systems,2001,701.0
+614,Armoured vehicles,2001,1735.0
+615,Artillery,2001,137.0
+616,Engines,2001,525.0
+617,Missiles,2001,2047.0
+618,Naval weapons,2001,77.0
+619,Other,2001,185.0
+620,Satellites,2001,0.0
+621,Sensors,2001,1127.0
+622,Ships,2001,2854.0
+623,Total,2001,18689.0
+624,Aircraft,2002,8119.0
+625,Air defence systems,2002,703.0
+626,Armoured vehicles,2002,2066.0
+627,Artillery,2002,197.0
+628,Engines,2002,531.0
+629,Missiles,2002,2276.0
+630,Naval weapons,2002,158.0
+631,Other,2002,137.0
+632,Satellites,2002,0.0
+633,Sensors,2002,1133.0
+634,Ships,2002,2362.0
+635,Total,2002,17681.0
+636,Aircraft,2003,9133.0
+637,Air defence systems,2003,510.0
+638,Armoured vehicles,2003,2057.0
+639,Artillery,2003,180.0
+640,Engines,2003,647.0
+641,Missiles,2003,1973.0
+642,Naval weapons,2003,265.0
+643,Other,2003,196.0
+644,Satellites,2003,0.0
+645,Sensors,2003,1118.0
+646,Ships,2003,2884.0
+647,Total,2003,18963.0
+648,Aircraft,2004,10562.0
+649,Air defence systems,2004,516.0
+650,Armoured vehicles,2004,2038.0
+651,Artillery,2004,424.0
+652,Engines,2004,835.0
+653,Missiles,2004,2275.0
+654,Naval weapons,2004,330.0
+655,Other,2004,199.0
+656,Satellites,2004,0.0
+657,Sensors,2004,1244.0
+658,Ships,2004,2757.0
+659,Total,2004,21181.0
+660,Aircraft,2005,8111.0
+661,Air defence systems,2005,871.0
+662,Armoured vehicles,2005,2049.0
+663,Artillery,2005,460.0
+664,Engines,2005,720.0
+665,Missiles,2005,2383.0
+666,Naval weapons,2005,262.0
+667,Other,2005,124.0
+668,Satellites,2005,50.0
+669,Sensors,2005,1214.0
+670,Ships,2005,5050.0
+671,Total,2005,21294.0
+672,Aircraft,2006,9473.0
+673,Air defence systems,2006,935.0
+674,Armoured vehicles,2006,3112.0
+675,Artillery,2006,497.0
+676,Engines,2006,609.0
+677,Missiles,2006,3025.0
+678,Naval weapons,2006,230.0
+679,Other,2006,146.0
+680,Satellites,2006,0.0
+681,Sensors,2006,1385.0
+682,Ships,2006,4963.0
+683,Total,2006,24377.0
+684,Aircraft,2007,11666.0
+685,Air defence systems,2007,925.0
+686,Armoured vehicles,2007,3723.0
+687,Artillery,2007,593.0
+688,Engines,2007,749.0
+689,Missiles,2007,2948.0
+690,Naval weapons,2007,175.0
+691,Other,2007,199.0
+692,Satellites,2007,0.0
+693,Sensors,2007,1455.0
+694,Ships,2007,4089.0
+695,Total,2007,26522.0
+696,Aircraft,2008,9557.0
+697,Air defence systems,2008,1546.0
+698,Armoured vehicles,2008,3288.0
+699,Artillery,2008,556.0
+700,Engines,2008,950.0
+701,Missiles,2008,3198.0
+702,Naval weapons,2008,214.0
+703,Other,2008,237.0
+704,Satellites,2008,0.0
+705,Sensors,2008,1288.0
+706,Ships,2008,3290.0
+707,Total,2008,24123.0
+708,Aircraft,2009,9931.0
+709,Air defence systems,2009,1466.0
+710,Armoured vehicles,2009,3437.0
+711,Artillery,2009,589.0
+712,Engines,2009,911.0
+713,Missiles,2009,3011.0
+714,Naval weapons,2009,114.0
+715,Other,2009,234.0
+716,Satellites,2009,0.0
+717,Sensors,2009,1108.0
+718,Ships,2009,3562.0
+719,Total,2009,24365.0
+720,Aircraft,2010,11899.0
+721,Air defence systems,2010,1301.0
+722,Armoured vehicles,2010,3887.0
+723,Artillery,2010,755.0
+724,Engines,2010,1053.0
+725,Missiles,2010,2696.0
+726,Naval weapons,2010,162.0
+727,Other,2010,328.0
+728,Satellites,2010,0.0
+729,Sensors,2010,1214.0
+730,Ships,2010,2427.0
+731,Total,2010,25724.0
+732,Aircraft,2011,15311.0
+733,Air defence systems,2011,1285.0
+734,Armoured vehicles,2011,3539.0
+735,Artillery,2011,698.0
+736,Engines,2011,1071.0
+737,Missiles,2011,2979.0
+738,Naval weapons,2011,127.0
+739,Other,2011,283.0
+740,Satellites,2011,0.0
+741,Sensors,2011,1469.0
+742,Ships,2011,3138.0
+743,Total,2011,29901.0
+744,Aircraft,2012,11703.0
+745,Air defence systems,2012,1143.0
+746,Armoured vehicles,2012,3634.0
+747,Artillery,2012,613.0
+748,Engines,2012,1286.0
+749,Missiles,2012,3315.0
+750,Naval weapons,2012,218.0
+751,Other,2012,296.0
+752,Satellites,2012,0.0
+753,Sensors,2012,1597.0
+754,Ships,2012,4005.0
+755,Total,2012,27809.0
+756,Aircraft,2013,10635.0
+757,Air defence systems,2013,1608.0
+758,Armoured vehicles,2013,2812.0
+759,Artillery,2013,438.0
+760,Engines,2013,1398.0
+761,Missiles,2013,4018.0
+762,Naval weapons,2013,207.0
+763,Other,2013,236.0
+764,Satellites,2013,0.0
+765,Sensors,2013,1781.0
+766,Ships,2013,4116.0
+767,Total,2013,27247.0
+768,Aircraft,2014,11470.0
+769,Air defence systems,2014,1255.0
+770,Armoured vehicles,2014,2951.0
+771,Artillery,2014,267.0
+772,Engines,2014,1413.0
+773,Missiles,2014,3188.0
+774,Naval weapons,2014,287.0
+775,Other,2014,163.0
+776,Satellites,2014,100.0
+777,Sensors,2014,1677.0
+778,Ships,2014,4425.0
+779,Total,2014,27195.0
+780,Aircraft,2015,12846.0
+781,Air defence systems,2015,1902.0
+782,Armoured vehicles,2015,2706.0
+783,Artillery,2015,300.0
+784,Engines,2015,1515.0
+785,Missiles,2015,3143.0
+786,Naval weapons,2015,182.0
+787,Other,2015,200.0
+788,Satellites,2015,0.0
+789,Sensors,2015,1772.0
+790,Ships,2015,3917.0
+791,Total,2015,28484.0
+792,Aircraft,2016,12394.0
+793,Air defence systems,2016,2410.0
+794,Armoured vehicles,2016,3880.0
+795,Artillery,2016,282.0
+796,Engines,2016,1544.0
+797,Missiles,2016,4237.0
+798,Naval weapons,2016,161.0
+799,Other,2016,119.0
+800,Satellites,2016,100.0
+801,Sensors,2016,1628.0
+802,Ships,2016,4458.0
+803,Total,2016,31213.0
+804,Aircraft,2017,14028.0
+805,Air defence systems,2017,1741.0
+806,Armoured vehicles,2017,3148.0
+807,Artillery,2017,184.0
+808,Engines,2017,1366.0
+809,Missiles,2017,4303.0
+810,Naval weapons,2017,175.0
+811,Other,2017,142.0
+812,Satellites,2017,100.0
+813,Sensors,2017,1123.0
+814,Ships,2017,5129.0
+815,Total,2017,31438.0
+816,Aircraft,2018,11907.0
+817,Air defence systems,2018,1662.0
+818,Armoured vehicles,2018,3026.0
+819,Artillery,2018,352.0
+820,Engines,2018,1736.0
+821,Missiles,2018,4223.0
+822,Naval weapons,2018,233.0
+823,Other,2018,124.0
+824,Satellites,2018,50.0
+825,Sensors,2018,1068.0
+826,Ships,2018,3425.0
+827,Total,2018,27807.0
+828,Aircraft,2019,14031.0
+829,Air defence systems,2019,988.0
+830,Armoured vehicles,2019,2807.0
+831,Artillery,2019,383.0
+832,Engines,2019,1944.0
+833,Missiles,2019,3663.0
+834,Naval weapons,2019,155.0
+835,Other,2019,445.0
+836,Satellites,2019,50.0
+837,Sensors,2019,1124.0
+838,Ships,2019,2017.0
+839,Total,2019,27607.0
+840,Aircraft,2020,11412.0
+841,Air defence systems,2020,566.0
+842,Armoured vehicles,2020,2564.0
+843,Artillery,2020,444.0
+844,Engines,2020,1678.0
+845,Missiles,2020,2971.0
+846,Naval weapons,2020,153.0
+847,Other,2020,311.0
+848,Satellites,2020,50.0
+849,Sensors,2020,785.0
+850,Ships,2020,3067.0
+851,Total,2020,24000.0
+852,Aircraft,2021,13480.0
+853,Air defence systems,2021,704.0
+854,Armoured vehicles,2021,2651.0
+855,Artillery,2021,295.0
+856,Engines,2021,1646.0
+857,Missiles,2021,2806.0
+858,Naval weapons,2021,180.0
+859,Other,2021,249.0
+860,Satellites,2021,10.0
+861,Sensors,2021,940.0
+862,Ships,2021,3831.0
+863,Total,2021,26792.0
+864,Aircraft,2022,14851.0
+865,Air defence systems,2022,1394.0
+866,Armoured vehicles,2022,3299.0
+867,Artillery,2022,650.0
+868,Engines,2022,1490.0
+869,Missiles,2022,4565.0
+870,Naval weapons,2022,257.0
+871,Other,2022,232.0
+872,Satellites,2022,10.0
+873,Sensors,2022,1372.0
+874,Ships,2022,3863.0
+875,Total,2022,31983.0
+876,Aircraft,Total,965706.0
+877,Air defence systems,Total,125939.0
+878,Armoured vehicles,Total,286344.0
+879,Artillery,Total,50217.0
+880,Engines,Total,61103.0
+881,Missiles,Total,190809.0
+882,Naval weapons,Total,12769.0
+883,Other,Total,7538.0
+884,Satellites,Total,520.0
+885,Sensors,Total,75360.0
+886,Ships,Total,256791.0
+887,Total,Total,2033095.0
